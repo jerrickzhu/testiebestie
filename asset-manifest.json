@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testiebestie/static/css/main.a617e044.chunk.css",
+    "main.js": "/testiebestie/static/js/main.ea39bfe6.chunk.js",
+    "main.js.map": "/testiebestie/static/js/main.ea39bfe6.chunk.js.map",
+    "runtime-main.js": "/testiebestie/static/js/runtime-main.e869a7e7.js",
+    "runtime-main.js.map": "/testiebestie/static/js/runtime-main.e869a7e7.js.map",
+    "static/js/2.da56f3e7.chunk.js": "/testiebestie/static/js/2.da56f3e7.chunk.js",
+    "static/js/2.da56f3e7.chunk.js.map": "/testiebestie/static/js/2.da56f3e7.chunk.js.map",
+    "static/js/3.70fd321f.chunk.js": "/testiebestie/static/js/3.70fd321f.chunk.js",
+    "static/js/3.70fd321f.chunk.js.map": "/testiebestie/static/js/3.70fd321f.chunk.js.map",
+    "index.html": "/testiebestie/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/testiebestie/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.da56f3e7.chunk.js.LICENSE.txt": "/testiebestie/static/js/2.da56f3e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e869a7e7.js",
+    "static/js/2.da56f3e7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ea39bfe6.chunk.js"
+  ]
+}
